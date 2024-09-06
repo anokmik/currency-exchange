@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="balance">Balance is %1$s</string>
+    <string name="commission">Commission is %1$s</string>
+    <string name="exchange">Exchange</string>
+    <string name="balances">Balances</string>
+    <string name="error_input_correct_value">Input correct value</string>
+    <string name="error_sell_balance_not_less_zero">Sell balance cannot be less than zero</string>
+</resources>
